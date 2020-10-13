@@ -1,0 +1,4 @@
+C:\Users\tomas\source\repos\PoP_2020\ConsoleApp1\obj\Debug\netcoreapp3.1\Lesson_02.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\PoP_2020\ConsoleApp1\obj\Debug\netcoreapp3.1\Lesson_02.AssemblyInfo.cs
+C:\Users\tomas\source\repos\PoP_2020\ConsoleApp1\obj\Debug\netcoreapp3.1\Lesson_02.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\PoP_2020\ConsoleApp1\obj\Debug\netcoreapp3.1\Lesson_02.csprojAssemblyReference.cache
