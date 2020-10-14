@@ -1,0 +1,12 @@
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\obj\Debug\netcoreapp3.1\Lesson_03 (missed lection).AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\obj\Debug\netcoreapp3.1\Lesson_03 (missed lection).AssemblyInfo.cs
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\obj\Debug\netcoreapp3.1\Lesson_03 (missed lection).csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\bin\Debug\netcoreapp3.1\Lesson_03 (missed lection).exe
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\bin\Debug\netcoreapp3.1\Lesson_03 (missed lection).deps.json
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\bin\Debug\netcoreapp3.1\Lesson_03 (missed lection).runtimeconfig.json
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\bin\Debug\netcoreapp3.1\Lesson_03 (missed lection).runtimeconfig.dev.json
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\bin\Debug\netcoreapp3.1\Lesson_03 (missed lection).dll
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\bin\Debug\netcoreapp3.1\Lesson_03 (missed lection).pdb
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\obj\Debug\netcoreapp3.1\Lesson_03 (missed lection).dll
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\obj\Debug\netcoreapp3.1\Lesson_03 (missed lection).pdb
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 (missed classes)\obj\Debug\netcoreapp3.1\Lesson_03 (missed lection).genruntimeconfig.cache

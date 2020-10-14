@@ -1,0 +1,13 @@
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\bin\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).exe
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\bin\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).deps.json
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\bin\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).runtimeconfig.json
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\bin\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).runtimeconfig.dev.json
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\bin\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).dll
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\bin\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).pdb
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\obj\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\obj\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\obj\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).AssemblyInfo.cs
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\obj\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\obj\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).dll
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\obj\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).pdb
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_03 Homework\obj\Debug\netcoreapp3.1\Lesson_03 Homework(missed lection).genruntimeconfig.cache
