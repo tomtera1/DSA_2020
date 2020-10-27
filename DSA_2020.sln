@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_01", "Lesson_01\Less
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_02", "Lesson_02\Lesson_02.csproj", "{07A7FDF7-011D-473C-BEB0-E2652D983BB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_03 Homework(missed lection)", "Lesson_03 Homework\Lesson_03 Homework(missed lection).csproj", "{26D34921-D1C9-406D-A586-20EF81A1BB3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_03 Homework(missed lection)", "Lesson_03 Homework\Lesson_03 Homework(missed lection).csproj", "{26D34921-D1C9-406D-A586-20EF81A1BB3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_03 (missed lection)", "Lesson_03 (missed classes)\Lesson_03 (missed lection).csproj", "{E1210302-E6B1-487D-8066-CD82EFB1766C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_03 (missed lection)", "Lesson_03 (missed classes)\Lesson_03 (missed lection).csproj", "{E1210302-E6B1-487D-8066-CD82EFB1766C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_04", "Lesson_04\Lesson_04.csproj", "{EC640D9B-3557-4834-96FD-1BC05D80D8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_05", "Lesson_05\Lesson_05.csproj", "{017D20D5-8237-4CAF-8839-091AB0679ACB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{E1210302-E6B1-487D-8066-CD82EFB1766C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1210302-E6B1-487D-8066-CD82EFB1766C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1210302-E6B1-487D-8066-CD82EFB1766C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC640D9B-3557-4834-96FD-1BC05D80D8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC640D9B-3557-4834-96FD-1BC05D80D8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC640D9B-3557-4834-96FD-1BC05D80D8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC640D9B-3557-4834-96FD-1BC05D80D8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017D20D5-8237-4CAF-8839-091AB0679ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017D20D5-8237-4CAF-8839-091AB0679ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017D20D5-8237-4CAF-8839-091AB0679ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017D20D5-8237-4CAF-8839-091AB0679ACB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

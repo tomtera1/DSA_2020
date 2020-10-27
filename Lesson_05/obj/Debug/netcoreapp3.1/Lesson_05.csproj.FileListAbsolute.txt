@@ -1,0 +1,13 @@
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\bin\Debug\netcoreapp3.1\Lesson_05.exe
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\bin\Debug\netcoreapp3.1\Lesson_05.deps.json
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\bin\Debug\netcoreapp3.1\Lesson_05.runtimeconfig.json
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\bin\Debug\netcoreapp3.1\Lesson_05.runtimeconfig.dev.json
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\bin\Debug\netcoreapp3.1\Lesson_05.dll
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\bin\Debug\netcoreapp3.1\Lesson_05.pdb
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\obj\Debug\netcoreapp3.1\Lesson_05.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\obj\Debug\netcoreapp3.1\Lesson_05.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\obj\Debug\netcoreapp3.1\Lesson_05.AssemblyInfo.cs
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\obj\Debug\netcoreapp3.1\Lesson_05.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\obj\Debug\netcoreapp3.1\Lesson_05.dll
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\obj\Debug\netcoreapp3.1\Lesson_05.pdb
+C:\Users\tomas\source\repos\DSA_2020 1\Lesson_05\obj\Debug\netcoreapp3.1\Lesson_05.genruntimeconfig.cache
