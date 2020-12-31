@@ -1,0 +1,13 @@
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\bin\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.exe
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\bin\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.deps.json
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\bin\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.runtimeconfig.json
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\bin\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\bin\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.dll
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\bin\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.pdb
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\obj\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\obj\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\obj\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.AssemblyInfo.cs
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\obj\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\obj\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.dll
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\obj\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.pdb
+C:\Users\tomas\source\repos\DSA_2020 1\DATA SA ASSIGNMENT\obj\Debug\netcoreapp3.1\DATA SA ASSIGNMENT.genruntimeconfig.cache

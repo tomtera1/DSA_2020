@@ -1,0 +1,13 @@
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\obj\Debug\netcoreapp3.1\Exam.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\tomas\source\repos\DSA_2020 1\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache
